@@ -1,0 +1,6 @@
+**Log on to codeastro.com for more projects!**
+**Developed By Hussein Harissa**
+ Then, make database migrations: python manage.py makemigrations
+ python manage.py migrate
+ And finally, run the application: python manage.py runserver
+
